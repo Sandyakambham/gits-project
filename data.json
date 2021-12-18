@@ -1,0 +1,22 @@
+{
+    "cards":[{
+        "img":"m1.jpg",
+        "name":"m1",
+        "price":"12,000",
+        "offer":"11,500",
+        "button":"view"
+   }, {
+        "img":"m2.jpg",
+        "name":"m2",
+        "price":"14,000",
+        "offer":"12,500",
+        "button":"view"
+   },{
+        "img":"m3.jpg",
+        "name":"m3",
+        "price":"15,000",
+        "offer":"13,500",
+        "button":"view"
+    }
+   ]
+}
